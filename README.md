@@ -42,7 +42,7 @@ CSS changes made:
 
 Alan Gaudet - <alanmgaudet@gmail.com>
 
-Portfolio - <github.com/amgaudet>
+Portfolio - <https://github.com/amgaudet>
 
 ## License
 MIT License
