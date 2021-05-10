@@ -38,9 +38,7 @@ nav {
     font-size: 20px;
 }
 
-header nav ul {
-    list-style-type: none;
-}
+/*header nav list style already defined in html*/
 
 header nav ul li {
     display: inline-block;
@@ -124,7 +122,7 @@ article {
 
 article img {
     max-height: 200px;
-}
+} 
 
 h2 {
     margin-bottom: 20px;
