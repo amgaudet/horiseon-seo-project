@@ -23,8 +23,11 @@ h1 {
     font-size: 48px;
 }
 
+/* abbr tag to seo */
 .seo {
     color: #d9dcd6;
+    border: none;
+    text-decoration: none;
 }
 
 /* nav element for navigation links */
