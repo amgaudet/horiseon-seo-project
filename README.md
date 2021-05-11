@@ -2,6 +2,7 @@
 ## Contents
 1. [About](#About)
 2. [Description](#Description)
+3. [Screenshot](#Screenshot)
 3. [License](#License)
 4. [Contact-Info](#Contact-Info)
 
@@ -37,6 +38,10 @@ CSS changes made:
 * Changed header, nav, main, and aside calls to match html code
 
 * Removed unnessecary class callings now being used by new elements
+
+## Screenshot
+
+<img src="./assets/images/site-screenshot.png" width="600" height=auto>
 
 ## Contact-Info
 
